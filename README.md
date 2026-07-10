@@ -13,7 +13,3 @@ Client workflow -> Scope -> Prototype -> Review -> Delivery -> Support
 ## Status
 
 Planning and demo scaffold.
-
-## Links
-
-Portfolio: https://ramvadlamudi22-dev.github.io
